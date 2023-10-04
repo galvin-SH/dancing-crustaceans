@@ -1,5 +1,5 @@
 {
-  "name": "dancing-crustaceans",
+  "name": "mercatura-centrum",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/galvin-SH/dancing-crustaceans.git"
+    "url": "git+ssh://git@github.com/galvin-SH/mercatura-centrum.git"
   },
   "author": "",
   "license": "ISC",
@@ -19,9 +19,9 @@
     "nodemon":"3.0.1"
   },
   "bugs": {
-    "url": "https://github.com/galvin-SH/dancing-crustaceans/issues"
+    "url": "https://github.com/galvin-SH/mercatura-centrum/issues"
   },
-  "homepage": "https://github.com/galvin-SH/dancing-crustaceans#readme",
+  "homepage": "https://github.com/galvin-SH/mercatura-centrum#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
