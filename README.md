@@ -19,9 +19,9 @@ Clone this repo, then run 'npm i' to install dependencies.
 A .env file must be located within the root directory of the project in order to run.
 The .env file must contain the following variables definitions:
 
-DB_NAME='ecommerce_db'
-DB_USER='your mysql user'
-DB_PASSWORD='your mysql password'
+DB_NAME='ecommerce_db'\
+DB_USER='your mysql user'\
+DB_PASSWORD='your mysql password'\
 
 The schema.sql file must also be sourced through a mysql command shell 
 'SOURCE db/schema.sql;'
@@ -33,7 +33,8 @@ api/categories
 api/products
 api/tags
 
-[Walkthrough Video](https://drive.google.com/file/d/1NrCaxEsPRTSSk7v10WuAOYyetnFIWaCR/view?usp=sharing)
+[Walkthrough Video Link](https://drive.google.com/file/d/1NrCaxEsPRTSSk7v10WuAOYyetnFIWaCR/view?usp=sharing)
+
 ![demo gif](./code-demo-ecom.gif)
 
 ## License
