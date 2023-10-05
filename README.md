@@ -21,7 +21,7 @@ The .env file must contain the following variables definitions:
 
 DB_NAME='ecommerce_db'\
 DB_USER='your mysql user'\
-DB_PASSWORD='your mysql password'\
+DB_PASSWORD='your mysql password'
 
 The schema.sql file must also be sourced through a mysql command shell 
 'SOURCE db/schema.sql;'
