@@ -33,6 +33,7 @@ api/categories
 api/products
 api/tags
 
+[Walkthrough Video](https://drive.google.com/file/d/1NrCaxEsPRTSSk7v10WuAOYyetnFIWaCR/view?usp=sharing)
 ![demo gif](./code-demo-ecom.gif)
 
 ## License
