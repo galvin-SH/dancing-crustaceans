@@ -29,9 +29,9 @@ The schema.sql file must also be sourced through a mysql command shell
 ## Usage
 The api allows GET, POST, PUT, and DELETE calls to endpoints 
 
-api/categories
-api/products
-api/tags
+api/categories\
+api/products\
+api/tags\
 
 [Walkthrough Video Link](https://drive.google.com/file/d/1NrCaxEsPRTSSk7v10WuAOYyetnFIWaCR/view?usp=sharing)
 
