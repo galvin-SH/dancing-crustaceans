@@ -31,7 +31,7 @@ The api allows GET, POST, PUT, and DELETE calls to endpoints
 
 api/categories\
 api/products\
-api/tags\
+api/tags
 
 [Walkthrough Video Link](https://drive.google.com/file/d/1NrCaxEsPRTSSk7v10WuAOYyetnFIWaCR/view?usp=sharing)
 
